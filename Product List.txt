@@ -2,3 +2,4 @@ Apple
 Samsung
 google
 1+
+lenovo
